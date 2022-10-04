@@ -1,6 +1,11 @@
-body .important {
-  font-weight: bold;
+body {
+  .important {
+    font-weight: bold;
+  }
+  .text {
+    font-style: italic;
+  }
 }
-.text {
-  font-style: italic;
+footer {
+  background-color: blueviolet;
 }
