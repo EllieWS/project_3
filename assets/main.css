@@ -3,9 +3,25 @@ body {
 }
 h1 {
   text-align: center;
+  /* background-color: rgb(87, 87, 232); */
 }
 /*dots are used from html class tag */
-.first {
+p {
   color: brown;
   font-size: larger;
+  /* background-color: antiquewhite; */
+}
+.important {
+  color: darkgreen;
+  font-weight: bold;
+}
+.text-block {
+  background-color: bisque;
+}
+a {
+  /* background-color: aqua; */
+  /* display: block; */
+}
+.links {
+  background-color: aquamarine;
 }
