@@ -1,27 +1,6 @@
-body {
-  background-color: azure;
-}
-h1 {
-  text-align: center;
-  /* background-color: rgb(87, 87, 232); */
-}
-/*dots are used from html class tag */
-p {
-  color: brown;
-  font-size: larger;
-  /* background-color: antiquewhite; */
-}
-.important {
-  color: darkgreen;
+body .important {
   font-weight: bold;
 }
-.text-block {
-  background-color: bisque;
-}
-a {
-  /* background-color: aqua; */
-  /* display: block; */
-}
-.links {
-  background-color: aquamarine;
+.text {
+  font-style: italic;
 }
